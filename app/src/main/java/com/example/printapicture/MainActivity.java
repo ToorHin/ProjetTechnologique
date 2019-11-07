@@ -73,8 +73,8 @@ public class MainActivity extends AppCompatActivity {
                             tv.setText("");
                             image.setPixels(pixels, 0, w, 0, 0, w, h);
                         }
-                        if (item.getTitle().equals("Shade of grey")) {
-                            tv.setText("execution time : "+ Effect.toGrey(image) + "ms");
+                        if (item.getTitle().equals("Shade of gray")) {
+                            tv.setText("execution time : "+ Effect.toGray(image) + "ms");
                         }
                         if (item.getTitle().equals("Random color")) {
                             tv.setText("execution time : "+ Effect.colorize(image) + "ms");
