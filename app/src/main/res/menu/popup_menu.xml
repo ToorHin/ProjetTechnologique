@@ -4,7 +4,7 @@
 
 
 
-    <item android:title="Shade of grey" android:id="@+id/grey"/>
+    <item android:title="Shade of gray" android:id="@+id/grey"/>
 
     <item android:title="Random color" android:id="@+id/random"/>
 
