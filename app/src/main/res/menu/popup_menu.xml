@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Shade of grey" android:id="@+id/grey"/>
+
+    <item android:title="Random color" android:id="@+id/random"/>
+
+    <item android:title="Just red" android:id="@+id/red"/>
+
+    <item android:title="Contrast" android:id="@+id/contrast"/>
+
+    <item android:title="ORIGINAL" android:id="@+id/Original"/>
+
+</menu>
