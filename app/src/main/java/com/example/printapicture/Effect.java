@@ -7,8 +7,8 @@ import java.util.Random;
 
 public class Effect {
 
-    // ------ shade of grey ------ //
-    static String toGrey(Bitmap bmp){
+    // ------ shade of gray ------ //
+    static String toGray(Bitmap bmp){
         long startTime = System.currentTimeMillis();
         int w = bmp.getWidth();
         int h = bmp.getHeight();
